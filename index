@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anthonia Ononogbo - Digital Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            background: navy;
+            color: white;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header h1 {
+            margin: 0;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: navy;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Anthonia Ononogbo</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="section">
+            <h2>Professional Summary</h2>
+            <p>Results-driven Biotech Specialist with a master's degree in Analytical Bioscience and extensive experience in customer-facing roles. Proven track record in technical consultancy, sales support, and customer training. Adept at translating complex scientific concepts for diverse audiences and driving innovation through expert technology demonstrations and applications.</p>
+        </section>
+
+        <section class="section">
+            <h2>Core Competencies</h2>
+            <ul>
+                <li>Technical Consultancy</li>
+                <li>Sales Support & Customer Relations</li>
+                <li>Product Demonstrations & Training</li>
+                <li>Data Analysis & Interpretation</li>
+                <li>Project Management</li>
+                <li>Cross-functional Collaboration</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Experience</h2>
+            <h3>Field Applications Scientist - Refeyn Ltd</h3>
+            <p>January 2022 – October 2024</p>
+            <ul>
+                <li>Provided end-to-end consultancy on mass photometry applications</li>
+                <li>Delivered tailored product demonstrations and user training</li>
+                <li>Produced detailed experimental reports and collaborated on service improvements</li>
+                <li>Leveraged Salesforce CRM to track client interactions</li>
+            </ul>
+            <h4>Key Achievements:</h4>
+            <ul>
+                <li>Completed 42% of installations and training in EU and APAC regions in 2023</li>
+                <li>Consistently received positive feedback for customer training and support</li>
+                <li>Significantly contributed to sales growth through effective technical demonstrations and customer support</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Education</h2>
+            <h3>MSc Analytical Bioscience - Birkbeck University of London</h3>
+            <p>2022 - 2024</p>
+            <h3>BSc (Hons) Biochemistry (2:1) - Kingston University</h3>
+            <p>2017 – 2020</p>
+        </section>
+
+        <section class="section">
+            <h2>Technical Expertise</h2>
+            <h3>Laboratory Techniques:</h3>
+            <p>GLP, GMP, ISO Standards, Microscopy, Spectroscopy, Chromatography, Mass Spectrometry, Immunoassays</p>
+            <h3>Specialised Skills:</h3>
+            <p>Mass Photometry, Data Analysis, Technical Writing, CRM Software</p>
+        </section>
+
+        <section class="section">
+            <h2>Professional Skills</h2>
+            <ul>
+                <li>Strong analytical and problem-solving abilities</li>
+                <li>Excellent presentation and communication skills</li>
+                <li>Proven ability to work effectively in cross-functional teams</li>
+                <li>Adaptable to rapidly changing environments and priorities</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Contact Information</h2>
+            <p>Location: London, N10 1EA</p>
+            <p>Mobile: 07340119431</p>
+            <p>Email: anthoniaononogbo@gmail.com</p>
+            <p>LinkedIn: https://uk.linkedin.com/in/anthoniaononogbo</p>
+        </section>
+    </div>
+</body>
+</html>
